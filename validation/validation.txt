@@ -1,0 +1,49 @@
+HW2 Validation and Upload Notes
+Name: Darsh Rathi
+Checked: October 5, 2026
+
+Markup and CSS
+W3C Nu HTML5 validator: 0 errors.
+W3C Nu XHTML5 validator: 0 errors.
+W3C CSS validator, CSS3 profile: 0 errors, 23 warnings.
+The CSS warnings concern inherited colors and deliberate media-query overrides.
+The HTML checker reports informational notices for XHTML-style self-closing tags.
+The XHTML checker reports an informational notice about the charset declaration.
+Raw service responses are saved in this validation folder.
+
+The assignment brief requests both XHTML and HTML5 validation. The page uses
+well-formed XHTML5 markup and the HTML5 doctype so the same source passes both.
+XML well-formedness also passes xmllint --noout index.html.
+
+Browser Checks
+Chromium and WebKit were tested at 1024, 995, 808, 701, 700, 480, 375, and 320px.
+All sixteen checks pass with zero horizontal overflow and no missing images.
+Both engines show an 808px outer frame, 550px review region, 250px overview,
+and 258.5px review columns at the reference desktop width.
+At 480px, the main region and overview each measure 472px in the test browsers.
+Both layouts stack at 700px and below. Phone text grows at 480px and below.
+Fixed badges remain in the same viewport position after scrolling.
+All three links have visible keyboard focus. Navigation uses Tab in Chromium
+and Option Tab in WebKit, matching Safari's default link navigation behavior.
+The page has eight reviews, eight critic entries, no tables, no scripts,
+and no inline styles. No page errors or failed resource requests occurred.
+The official Warner Bros. TMNT page returned HTTP 200.
+Desktop and mobile screenshots are visual QA, not critical-thinking evidence.
+Browser-specific font metrics can change line wrapping from the supplied image.
+
+Codd Upload
+Upload index.html, styles.css, and the complete images folder to web/HW/HW2/.
+Use the existing submission URL, including its exact capitalization:
+https://codd.cs.gsu.edu/~drathi1/web/HW/HW2/index.html
+After the homepage link update, upload the HW1 index.html to web/HW/HW1/.
+The resources and validation folders are reference/evidence files, not runtime
+requirements. Uploading them is optional.
+
+Deferred
+Codd upload and live-server verification are for the student to complete.
+Critical-thinking questions, their screenshot evidence, and iCOLLEGE submission
+are deferred. Their completion has not been claimed.
+
+Source SHA256
+index.html: 2eb517c6387e5061ec1268de8941f9df4528a2cad6792aeb8eb4f430043ecf39
+styles.css: 05e0bbcecb1b7cdb2d025eacc3f4aa1e8769c95264ea5095b3d09b3d98f3f0d2

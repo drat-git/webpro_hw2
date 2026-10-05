@@ -1,0 +1,834 @@
+[
+  {
+    "browser": "Chromium",
+    "viewport": 1024,
+    "clientWidth": 1024,
+    "scrollWidth": 1024,
+    "frame": {
+      "width": 808,
+      "height": 873.609375,
+      "x": 108,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 550,
+      "height": 842.609375,
+      "x": 112,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.609375,
+      "x": 662,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      258.5,
+      258.5
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 936,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "Chromium",
+    "viewport": 995,
+    "clientWidth": 995,
+    "scrollWidth": 995,
+    "frame": {
+      "width": 808,
+      "height": 873.609375,
+      "x": 93.5,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 550,
+      "height": 842.609375,
+      "x": 97.5,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.609375,
+      "x": 647.5,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      258.5,
+      258.5
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 907,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "Chromium",
+    "viewport": 808,
+    "clientWidth": 808,
+    "scrollWidth": 808,
+    "frame": {
+      "width": 808,
+      "height": 873.609375,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 550,
+      "height": 842.609375,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.609375,
+      "x": 554,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      258.5,
+      258.5
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 720,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "Chromium",
+    "viewport": 701,
+    "clientWidth": 701,
+    "scrollWidth": 701,
+    "frame": {
+      "width": 701,
+      "height": 873.609375,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 443,
+      "height": 842.609375,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.609375,
+      "x": 447,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      208.203125,
+      208.203125
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 613,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "Chromium",
+    "viewport": 700,
+    "clientWidth": 700,
+    "scrollWidth": 700,
+    "frame": {
+      "width": 700,
+      "height": 1818.796875,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 692,
+      "height": 1017.1875,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 692,
+      "height": 770.609375,
+      "x": 4,
+      "y": 1153.0625,
+      "display": "block"
+    },
+    "columns": [
+      664.34375,
+      664.34375
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 612,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "Chromium",
+    "viewport": 480,
+    "clientWidth": 480,
+    "scrollWidth": 480,
+    "frame": {
+      "width": 480,
+      "height": 2187.8125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 472,
+      "height": 1278.53125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 472,
+      "height": 875.28125,
+      "x": 4,
+      "y": 1414.40625,
+      "display": "block"
+    },
+    "columns": [
+      453.125,
+      453.125
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 188,
+      "height": 39,
+      "x": 292,
+      "y": 996,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "Chromium",
+    "viewport": 375,
+    "clientWidth": 375,
+    "scrollWidth": 375,
+    "frame": {
+      "width": 375,
+      "height": 2309.8125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 367,
+      "height": 1400.53125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 367,
+      "height": 875.28125,
+      "x": 4,
+      "y": 1536.40625,
+      "display": "block"
+    },
+    "columns": [
+      352.34375,
+      352.34375
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 188,
+      "height": 39,
+      "x": 187,
+      "y": 996,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "Chromium",
+    "viewport": 320,
+    "clientWidth": 320,
+    "scrollWidth": 320,
+    "frame": {
+      "width": 320,
+      "height": 2435.8125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 312,
+      "height": 1496.53125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 312,
+      "height": 905.28125,
+      "x": 4,
+      "y": 1632.40625,
+      "display": "block"
+    },
+    "columns": [
+      299.53125,
+      299.53125
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 188,
+      "height": 39,
+      "x": 132,
+      "y": 996,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Tab",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 1024,
+    "clientWidth": 1024,
+    "scrollWidth": 1024,
+    "frame": {
+      "width": 808,
+      "height": 873.328125,
+      "x": 108,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 550,
+      "height": 842.328125,
+      "x": 112,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.328125,
+      "x": 662,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      258.5,
+      258.5
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 936,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 995,
+    "clientWidth": 995,
+    "scrollWidth": 995,
+    "frame": {
+      "width": 808,
+      "height": 873.328125,
+      "x": 93.5,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 550,
+      "height": 842.328125,
+      "x": 97.5,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.328125,
+      "x": 647.5,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      258.5,
+      258.5
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 907,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 808,
+    "clientWidth": 808,
+    "scrollWidth": 808,
+    "frame": {
+      "width": 808,
+      "height": 873.328125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 550,
+      "height": 842.328125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.328125,
+      "x": 554,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      258.5,
+      258.5
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 720,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 701,
+    "clientWidth": 701,
+    "scrollWidth": 701,
+    "frame": {
+      "width": 701,
+      "height": 873.328125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 443,
+      "height": 842.328125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 250,
+      "height": 842.328125,
+      "x": 447,
+      "y": 135.875,
+      "display": "block"
+    },
+    "columns": [
+      208.203125,
+      208.203125
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 613,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 700,
+    "clientWidth": 700,
+    "scrollWidth": 700,
+    "frame": {
+      "width": 700,
+      "height": 1818.515625,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 692,
+      "height": 1017.1875,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 692,
+      "height": 770.328125,
+      "x": 4,
+      "y": 1153.0625,
+      "display": "block"
+    },
+    "columns": [
+      664.34375,
+      664.34375
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 88,
+      "height": 62,
+      "x": 612,
+      "y": 973,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 480,
+    "clientWidth": 480,
+    "scrollWidth": 480,
+    "frame": {
+      "width": 480,
+      "height": 2187.8125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 472,
+      "height": 1278.53125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 472,
+      "height": 875.28125,
+      "x": 4,
+      "y": 1414.40625,
+      "display": "block"
+    },
+    "columns": [
+      453.125,
+      453.125
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 188,
+      "height": 39,
+      "x": 292,
+      "y": 996,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 375,
+    "clientWidth": 375,
+    "scrollWidth": 375,
+    "frame": {
+      "width": 375,
+      "height": 2309.8125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 367,
+      "height": 1400.53125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 367,
+      "height": 875.28125,
+      "x": 4,
+      "y": 1536.40625,
+      "display": "block"
+    },
+    "columns": [
+      352.34375,
+      352.34375
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 188,
+      "height": 39,
+      "x": 187,
+      "y": 996,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  },
+  {
+    "browser": "WebKit",
+    "viewport": 320,
+    "clientWidth": 320,
+    "scrollWidth": 320,
+    "frame": {
+      "width": 320,
+      "height": 2435.8125,
+      "x": 0,
+      "y": 131.875,
+      "display": "grid"
+    },
+    "main": {
+      "width": 312,
+      "height": 1496.53125,
+      "x": 4,
+      "y": 135.875,
+      "display": "block"
+    },
+    "overview": {
+      "width": 312,
+      "height": 905.28125,
+      "x": 4,
+      "y": 1632.40625,
+      "display": "block"
+    },
+    "columns": [
+      299.53125,
+      299.53125
+    ],
+    "quotes": 8,
+    "critics": 8,
+    "brokenImages": [],
+    "validators": {
+      "width": 188,
+      "height": 39,
+      "x": 132,
+      "y": 996,
+      "display": "flex"
+    },
+    "validatorPosition": "fixed",
+    "title": "MMR - My Movie Review",
+    "inlineStyles": 0,
+    "scripts": 0,
+    "tables": 0,
+    "keyboardFocus": {
+      "active": true,
+      "outline": "2px"
+    },
+    "keyboardNavigation": "Option Tab (Safari default)",
+    "validatorsFixedWhileScrolling": true
+  }
+]

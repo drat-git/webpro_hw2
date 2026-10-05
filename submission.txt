@@ -1,0 +1,5 @@
+Name: Darsh Rathi
+Live URL: https://codd.cs.gsu.edu/~drathi1/web/HW/HW2/index.html
+GitHub: https://github.com/drat-git/webpro_hw2.git
+Homepage URL: https://codd.cs.gsu.edu/~drathi1/web/HW/HW1/index.html
+Critical Thinking Answers: https://docs.google.com/document/d/1-e8E1H4NRJ6YDuM5nGIpsNeS56Y5A63FQ-adVFdtpCI/edit?usp=sharing

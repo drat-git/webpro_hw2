@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding="utf-8"?>
+<env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope">
+    <env:Body>
+        <m:cssvalidationresponse
+            env:encodingStyle="http://www.w3.org/2003/05/soap-encoding"
+            xmlns:m="http://www.w3.org/2005/07/css-validator">
+            <m:uri>styles.css</m:uri>
+            <m:checkedby>http://jigsaw.w3.org/css-validator/</m:checkedby>
+            <m:csslevel>css3</m:csslevel>
+            <m:date>2026-10-05T03:25:51Z</m:date>
+            <m:validity>true</m:validity>
+            <m:result>
+                <m:errors xml:lang="en">
+                    <m:errorcount>0</m:errorcount>
+    
+                </m:errors>
+                <m:warnings xml:lang="en">
+                    <m:warningcount>23</m:warningcount>
+            
+                    <m:warninglist>
+                        <m:uri>file://localhost/styles.css</m:uri>
+        
+                        <m:warning>
+                            <m:line>59</m:line>
+                            <m:level>2</m:level>
+                            <m:message>You have no color set (or color is set to transparent) but you have set a background-color. Make sure that cascading of colors keeps the text reasonably legible.</m:message>
+                            <m:type>no-color</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>70</m:line>
+                            <m:level>2</m:level>
+                            <m:message>You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.</m:message>
+                            <m:type>no-background-color</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>76</m:line>
+                            <m:level>2</m:level>
+                            <m:message>You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.</m:message>
+                            <m:type>no-background-color</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>97</m:line>
+                            <m:level>2</m:level>
+                            <m:message>You have no color set (or color is set to transparent) but you have set a background-color. Make sure that cascading of colors keeps the text reasonably legible.</m:message>
+                            <m:type>no-color</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>125</m:line>
+                            <m:level>2</m:level>
+                            <m:message>You have no color set (or color is set to transparent) but you have set a background-color. Make sure that cascading of colors keeps the text reasonably legible.</m:message>
+                            <m:type>no-color</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>148</m:line>
+                            <m:level>2</m:level>
+                            <m:message>You have no color set (or color is set to transparent) but you have set a background-color. Make sure that cascading of colors keeps the text reasonably legible.</m:message>
+                            <m:type>no-color</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>174</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “padding-bottom”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>178</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-template-columns”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>185</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “height”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>188</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “white-space”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>196</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-template-columns”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>202</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-column”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>202</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-column”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>206</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “margin-bottom”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>211</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “height”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>223</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “padding-bottom”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>224</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “font-size”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>228</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “flex-direction”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>232</m:line>
+                            <m:level>2</m:level>
+                            <m:message>You have no color set (or color is set to transparent) but you have set a background-color. Make sure that cascading of colors keeps the text reasonably legible.</m:message>
+                            <m:type>no-color</m:type>
+                        </m:warning>
+                    
+                    </m:warninglist>
+            
+                    <m:warninglist>
+                        <m:uri>$sfe</m:uri>
+        
+                        <m:warning>
+                            <m:line>0</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-row-start”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>0</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-row-end”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>0</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-row-start”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+        
+                        <m:warning>
+                            <m:line>0</m:line>
+                            <m:level>2</m:level>
+                            <m:message>Redefinition of “grid-row-end”</m:message>
+                            <m:type>redefinition</m:type>
+                        </m:warning>
+    
+                    </m:warninglist>
+                </m:warnings>
+            </m:result>
+        </m:cssvalidationresponse>
+    </env:Body>
+</env:Envelope>
+
