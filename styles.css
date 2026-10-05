@@ -2,9 +2,10 @@
     Name: Darsh Rathi
     Section: Web Programming, Monday/Wednesday, 2:30 PM
     Assignment: Homework 2 - My Movie Review
-    Contents: Reference layout, review styling, overview, and validator links.
+    Contents: Reference layout, reviews, overview, validator links, and mobile styles.
     Layout: Grid separates the reviews, 250px overview, and full-width counter.
     A second Grid makes the review columns. Flexbox aligns each critic's details.
+    At 700px, both grids stack. At 480px, text grows and badges share one row.
 */
 
 /* Page background and centered banner. */
@@ -17,6 +18,8 @@ body {
 }
 
 #banner {
+    display: flex;
+    justify-content: center;
     height: 50px;
     overflow: hidden;
     background-image: url("images/bannerbackground.png");
@@ -27,6 +30,7 @@ body {
 #banner img {
     width: 974px;
     height: 50px;
+    flex-shrink: 0;
 }
 
 h1 {
@@ -41,6 +45,7 @@ h1 {
     display: grid;
     grid-template-columns: minmax(0, 1fr) 250px;
     width: 800px;
+    max-width: calc(100% - 8px);
     margin: 0 auto;
     border: 4px solid gray;
 }
@@ -51,6 +56,7 @@ h1 {
 
 #rating {
     height: 83px;
+    background-color: #2f4720;
     background-image: url("images/rottenbackground.png");
     background-repeat: repeat-x;
     white-space: nowrap;
@@ -100,12 +106,18 @@ h1 {
 .critic {
     display: flex;
     align-items: flex-start;
+    flex-wrap: wrap;
     gap: 5px;
     margin-bottom: 3em;
 }
 
 .critic img {
     flex-shrink: 0;
+}
+
+.critic span {
+    flex: 1;
+    min-width: 0;
 }
 
 /* The poster keeps its original size; only the definition list is padded. */
@@ -154,4 +166,69 @@ h1 {
 a:focus {
     outline: 2px solid #173b0d;
     outline-offset: 2px;
+}
+
+/* At tablet and phone widths, keep every region inside the viewport. */
+@media (max-width: 700px) {
+    body {
+        padding-bottom: 72px;
+    }
+
+    #content {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    #rating {
+        display: flex;
+        align-items: flex-end;
+        flex-wrap: wrap;
+        height: auto;
+        min-height: 83px;
+        column-gap: 5px;
+        white-space: normal;
+    }
+
+    .review-total {
+        padding-bottom: 10px;
+    }
+
+    .review-columns {
+        grid-template-columns: minmax(0, 1fr);
+        padding: 0 2%;
+    }
+
+    .review-column:first-child,
+    .review-column:last-child {
+        grid-column: 1;
+    }
+
+    .critic {
+        margin-bottom: 2em;
+    }
+
+    #overview > img {
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    #overview dd {
+        margin-left: 20px;
+    }
+}
+
+/* Slightly larger text and one row of fixed badges make phones easier to use. */
+@media (max-width: 480px) {
+    body {
+        padding-bottom: 48px;
+        font-size: 10pt;
+    }
+
+    #validators {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 4px;
+        padding: 4px;
+        background-color: #A2B964;
+    }
 }
