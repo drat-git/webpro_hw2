@@ -1,0 +1,157 @@
+/*
+    Name: Darsh Rathi
+    Section: Web Programming, Monday/Wednesday, 2:30 PM
+    Assignment: Homework 2 - My Movie Review
+    Contents: Reference layout, review styling, overview, and validator links.
+    Layout: Grid separates the reviews, 250px overview, and full-width counter.
+    A second Grid makes the review columns. Flexbox aligns each critic's details.
+*/
+
+/* Page background and centered banner. */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("images/background.png");
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 8pt;
+}
+
+#banner {
+    height: 50px;
+    overflow: hidden;
+    background-image: url("images/bannerbackground.png");
+    background-repeat: repeat-x;
+    text-align: center;
+}
+
+#banner img {
+    width: 974px;
+    height: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+/* The 800px interior contains a 550px review region and 250px overview. */
+#content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 250px;
+    width: 800px;
+    margin: 0 auto;
+    border: 4px solid gray;
+}
+
+#reviews {
+    min-width: 0;
+}
+
+#rating {
+    height: 83px;
+    background-image: url("images/rottenbackground.png");
+    background-repeat: repeat-x;
+    white-space: nowrap;
+}
+
+#rating img {
+    vertical-align: bottom;
+}
+
+.percentage {
+    color: red;
+    font-size: 48pt;
+    font-weight: bold;
+}
+
+.review-total {
+    color: white;
+}
+
+/* Two 47% columns, with 2% space at each edge and between the columns. */
+.review-columns {
+    display: grid;
+    grid-template-columns: 2% 47% 2% 47% 2%;
+}
+
+.review-column:first-child {
+    grid-column: 2;
+}
+
+.review-column:last-child {
+    grid-column: 4;
+}
+
+.quote {
+    min-height: 25px;
+    padding: 8px;
+    border: 2px solid gray;
+    background-color: #E1D697;
+    font-weight: bold;
+}
+
+.quote img {
+    float: left;
+    margin-right: 5px;
+}
+
+.critic {
+    display: flex;
+    align-items: flex-start;
+    gap: 5px;
+    margin-bottom: 3em;
+}
+
+.critic img {
+    flex-shrink: 0;
+}
+
+/* The poster keeps its original size; only the definition list is padded. */
+#overview {
+    background-color: #A2B964;
+    font-family: Arial, sans-serif;
+}
+
+#overview > img {
+    display: block;
+    width: 250px;
+    height: 412px;
+}
+
+#overview dl {
+    padding: 0 10px;
+}
+
+#overview dt {
+    margin-top: 10pt;
+    font-weight: bold;
+}
+
+#review-counter {
+    grid-column: 1 / -1;
+    margin: 0;
+    padding: 5px;
+    background-color: #A2B964;
+    text-align: center;
+}
+
+/* Fixed positioning is used only for the required validator badges. */
+#validators {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#validators img {
+    display: block;
+    border: 0;
+}
+
+a:focus {
+    outline: 2px solid #173b0d;
+    outline-offset: 2px;
+}
